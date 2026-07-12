@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./ysyx.png" alt="YSYX — One Student One Chip" width="420">
+</p>
+
+
 ## About This Repository
 
 This repository records my learning and engineering practice in the **YSYX (“One Student One Chip”)** initiative.
